@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TvShowsLibraryData.Models.Episode" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAQAiAEAAEAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Models\Episode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.EpisodePriceType" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAABAAAAAAAAEAAAAIAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Models\EpisodePriceType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.Genre" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Models\Genre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.Image" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEAAFAAAAIAAgAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\Image.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.Person" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Models\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.PersonSkill" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAAAAAAAAAAEEAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PersonSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.PriceType" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\PriceType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.Product" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAABAQggAEAAEAAAAAAAAAEAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Models\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.ProductImage" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAAAAEAAAAAAAAAAAABEAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ProductImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.ProductionHouse" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ProductionHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.Rating" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAAAIAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Models\Rating.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.Season" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAgoAEAAEAAAAAAgABEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Season.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.Skill" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Skill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.TvShow" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAEAAEAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Models\TvShow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.TvShowGenre" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAgAIAAAEAIAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TvShowGenre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.TvShowPersonSkill" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAAAAAgAAAAEEAAAAAAAAAEAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TvShowPersonSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.TvShowProductionHouse" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAgAAAAAEAAACABAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TvShowProductionHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TvShowsLibraryData.Models.TvShowRating" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAgIAAAAEAAAAAAAAAEAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TvShowRating.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
